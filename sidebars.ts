@@ -23,7 +23,6 @@ const sidebars: SidebarsConfig = {
         'getting-started/installation',
         'getting-started/license-activation',
         'getting-started/quick-start',
-        'getting-started/first-capture',
       ],
     },
   ],
