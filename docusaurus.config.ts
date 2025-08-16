@@ -78,6 +78,11 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     navbar: {
       title: 'InterceptSuite',
       logo: {
@@ -89,6 +94,11 @@ const config: Config = {
         {
           href: 'https://github.com/InterceptSuite/InterceptSuite',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://interceptsuite.com/',
+          label: 'Website',
           position: 'right',
         },
       ],

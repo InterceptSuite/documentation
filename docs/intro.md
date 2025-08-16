@@ -49,18 +49,9 @@ Advanced features for teams
 - ✅ Universal TLS Upgrade Detection
 - ✅ Priority Support
 
-**Looking for the Professional version?** Visit [https://interceptsuite.com/](https://interceptsuite.com/) for more information.
+**Looking for the Professional version?**
 
-## Quick Navigation
-
-### 🚀 [Getting Started](./getting-started/installation)
-Learn how to install and configure InterceptSuite for your environment.
-
-### 📖 [User Guide](./user-guide/interface-overview)
-Comprehensive guides for using all InterceptSuite features.
-
-### � [Python Extension API](./api/overview)
-Complete Python extension API documentation for developers.
+<a href="https://interceptsuite.com/" target="_blank" class="button button--primary button--lg">Get Professional Edition</a>
 
 ## Latest Updates (v1.1.0)
 

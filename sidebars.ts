@@ -25,6 +25,30 @@ const sidebars: SidebarsConfig = {
         'getting-started/quick-start',
       ],
     },
+    {
+      type: 'category',
+      label: '✨ Features',
+      items: [
+        {
+          type: 'category',
+          label: 'Proxy',
+          items: [
+            'features/intercept',
+            'features/proxy-history',
+            'features/connection',
+            'features/proxy-settings',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Extensions',
+          items: [
+            'features/extensions',
+            'features/extension-api',
+          ],
+        },
+      ],
+    },
   ],
 };
 
