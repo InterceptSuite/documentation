@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Allow all web crawlers to access all content
+# This is useful for public websites that want maximum visibility
+
+Sitemap: https://interceptsuite.com/sitemap.xml
